@@ -1,0 +1,12 @@
+HOMEWORK GRADER
+
+
+Overview:
+This program will take in user audio input when specified and print output to word
+snippet which gets pasted on current page of pdf file at bottom of the page.
+
+
+Features:
+Listens for user audio input and translates to text
+Prints text to current page of pdf near bottom of page
+Saves all to pdf copy in case of errors 
